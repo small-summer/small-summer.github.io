@@ -1,0 +1,100 @@
+.banner{
+	width:960px;
+	height:490px;
+	margin:50px auto 0;
+}
+.banner .top{
+	width:1000px;
+	height:135px;
+	_margin-left:90px;
+}
+.banner .top h2{
+	background:url(../images/banner_h2.png) no-repeat;
+	padding:0 0 0 20px;
+	font-family:"Î¢ÈíÑÅºÚ";
+	_font-family:"ºÚÌå";
+	font-weight:blod;
+	font-size:22px;
+	color:#333;
+	margin:0 0 25px 0;
+}
+.banner .top p{
+	font-size:12px;
+	color:#666;
+	text-indent:2em;
+	width:700px;
+	float:left;
+}
+.banner .top .banner_button{
+	width:177px;
+	height:46px;
+	background:url(../images/banner_bottom.png) no-repeat;
+	float:left;
+	margin:-10px 0 0 85px;
+	cursor:pointer;
+}
+.banner .banner_line{
+	width:1001px;
+	height:2px;
+	margin:0 auto;
+	background:url(../images/banner_line.png) no-repeat;
+	clear:both;
+}
+.banner .bottom{
+	margin:45px 0 0 15px;
+	width:1065px;
+	_margin-left:90px;
+}
+.banner .bottom dl{
+	width:210px;
+	height:214px;
+	float:left;
+	margin:0 45px 0 0;
+}
+.banner .bottom dl dt h2{
+	text-align:center;
+	font-family:"Î¢ÈíÑÅºÚ";
+	_font-family:"ºÚÌå";
+	font-size:18px;
+	_font-size:16px;
+	color:#666;
+	margin:0 0 15px 0;
+}
+.banner .bottom dl dt div{
+	width:138px;
+	height:80px;
+	margin:0 auto;
+}
+.banner .bottom dl dt div a{
+	display:block;
+	width:138px;
+	height:80px;
+}
+.banner .bottom dl dd p{
+	text-align:center;
+	text-indent:2em;
+	margin:20px 0 0 0;
+	font-size:12px;
+	color:#999;
+}
+.banner .bottom dl dd p.more{
+	margin:10px 0 0 -15px;
+}
+.banner .bottom dl dd p.more a{
+	color:#e54446;
+}
+.banner .bottom dl dd p.more a:hover{
+	color:#36f;
+}
+.banner .bottom dl dt div.img_1{
+	background:url(../images/img_1.png) no-repeat;
+}
+.banner .bottom dl dt div.img_2{
+	background:url(../images/img_2.png) no-repeat;
+}
+.banner .bottom dl dt div.img_3{
+	background:url(../images/img_3.png) no-repeat;
+}
+.banner .bottom dl dt div.img_4{
+	background:url(../images/img_4.png) no-repeat;
+}
